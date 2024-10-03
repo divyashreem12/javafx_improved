@@ -1,0 +1,7 @@
+mport javafx.application.Application;
+import javafx.event.ActionEvent;
+ 
+public class helloworld extends Application {
+    public static void main(String[] args) {
+        launch(args);
+    }
